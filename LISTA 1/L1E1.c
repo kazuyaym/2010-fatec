@@ -1,6 +1,10 @@
 //Marcos Kazuya Yamazaki
 //Data: 27/08/2010
 //L1E1.c
+
+// FATEC
+
+
 void main (void)
 {
    float PreUnit, VComp;
